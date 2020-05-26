@@ -9,7 +9,7 @@
 		"logs": "firebase functions:log"
 	},
 	"engines": {
-		"node": "8"
+		"node": "12"
 	},
 	"dependencies": {
 		"doorman-node": "^1.0.13",
